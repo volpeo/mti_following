@@ -19,3 +19,7 @@
 `User.first.followed.first.specific`
 
 - If you want to get all followers of an user : `User.first.followers`
+
+## Schema
+
+![](erd.png)
